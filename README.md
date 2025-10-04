@@ -1,14 +1,13 @@
 # 🧠 Improving Chatbot Accuracy using Context Window Optimization
 
 This repository accompanies the research paper:
+> **"Improving Chatbot Accuracy using Context Window Optimization"**
 
-> **“Improving Chatbot Accuracy using Context Window Optimization”**  
 > *Author:* Gaurav Kumar, Sagar Singh
-> *Affiliation:* Independent Researchers, India   
-> *Email:* gauravatwork17@gmail.com, sagarsinghatwork@gmail.com  
 
+> *Affiliation:* Independent Researchers, India
 
-
+> *Email:* gauravatwork17@gmail.com, sagarsinghatwork@gmail.com 
 ---
 
 ## 🧩 Overview
@@ -176,6 +175,12 @@ Special thanks to ChatGPT (OpenAI) for research assistance, pseudocode generatio
 ## 📬 Contact
 
 For questions, collaborations, or implementation help:  
-**Gaurav Kumar** — [gauravatwork17@gmail.com]  
+**Gaurav Kumar** — [gauravatwork17@gmail.com]
+
 **LinkedIn:** [Gaurav K](https://www.linkedin.com/in/gauravconnects/) 
+
+
+**Sagar Singh** — [sagarsinghatwork@gmail.com]
+
+**LinkedIn:** [Sagar S](https://www.linkedin.com/in/sagar--singh/) 
 
