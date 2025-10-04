@@ -1,0 +1,4 @@
+method,EM,F1,ROUGE_L,avg_tokens
+Full-context,0.6,0.62,0.1,2762
+Sliding(k=3),0.62,0.64,0.11,1500
+Relevance-prune(S=0.6),0.66,0.68,0.12,2253
